@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Merienda');
+
+body {
+	min-height: 100vh;
+	background: #d9a7c7; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to bottom, #fffcdc91, #ffafee7a); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(
+		to bottom,
+		#fffcdc91,
+		#ffafee7a
+	); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	font-family: 'Merienda', cursive;
+}
+
+h1,
+h2,
+h3,
+p,
+.search-bar,
+.search-button {
+	font-family: 'Merienda', cursive;
+}
+
+.search-bar {
+	width: 60%;
+	border: none;
+}
+
+.search-button {
+	background: #d9a7c7; /* fallback for old browsers */
+	background: -webkit-linear-gradient(345deg, #ffc3a044, #d9a7c78c); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(
+		345deg,
+		#ffc3a044,
+		#d9a7c7a8
+	); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	border: none;
+}
+
+.recipe-card {
+	background: #ffafbd; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to bottom, #ffc3a044, #ffafbc86); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(
+		to bottom,
+		#ffc3a044,
+		#ffafbc71
+	); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
