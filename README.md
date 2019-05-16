@@ -9,7 +9,7 @@
 This website is about finding favourite food recipes that is built by using ReactJS for [coding_challenge-16](https://github.com/zero-to-mastery/coding_challenge-16).
 
 ### CAUTION !!!
-YOU MUST USE YOUR OWN "appID" & "appKey" from [here](https://www.edamam.com/). BECAUSE THESE ARE UNIQUE FOR EVERY USER!
+**YOU MUST USE YOUR OWN "appID" & "appKey" from [here](https://www.edamam.com/)**. BECAUSE THESE ARE UNIQUE FOR EVERY USER!
 SO, To get your own "appID" and "appKey" for your own website/app,
 * go to *[Edamam](https://www.edamam.com/)*,
 * then Sign Up for 'Recipe Search API',
