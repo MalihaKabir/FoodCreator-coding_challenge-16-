@@ -14,8 +14,8 @@ const App = () => {
 	// > and lastly, from there, click "view". Simple :)
 	// You'll get your own Application ID & Application Key.
 	// CAUTION !!!
-	const appID = 'd605f6c8';
-	const appKey = '020a719dc84167072382486c4b68d5ca';
+	const appID = 'YourOwnApiID';
+	const appKey = 'YourOwnApiKey';
 
 	const [ recipes, setRecipes ] = useState([]);
 	const [ search, setSearch ] = useState('');
